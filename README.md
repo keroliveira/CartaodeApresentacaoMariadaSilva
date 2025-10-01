@@ -1,0 +1,1 @@
+Este cartão de apresentação foi desenvolvido durante os dois primeiros cursos da formação "A partir do zero: HTML e CSS para projetos Web" da alura. Apesar de termos utilizado o layout do Figma como parametro para a criação da página web, também me permiti alguns incrementos pessoais, como a escolha das fontes para os botões. 
